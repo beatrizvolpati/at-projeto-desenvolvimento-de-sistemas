@@ -15,3 +15,11 @@ tentativas + = 1
 else:
   print('tente dnv')
   print(' ja tentou (tentativa) vezes')
+  
+ if chute > numeroSecr:
+ 
+   print('chute mais baixo')
+   
+   else:
+   
+   print('chute mais alto')
